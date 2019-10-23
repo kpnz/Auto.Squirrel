@@ -1,9 +1,5 @@
 # **Squirrel Package Manager**
 
-
-
-
-####You can install the latest version from **[Setup](https://s3-eu-west-1.amazonaws.com/autosquirrel/Setup.exe)**
 ___
 
 #### This utility is useful to create installer based on **[Squirrel.Windows](https://github.com/Squirrel/Squirrel.Windows)**.
